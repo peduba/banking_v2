@@ -1,0 +1,6 @@
+com\netbanking\utilities\ExcelUtilityFile.class
+com\netbanking\pageobjects\LoginPagePageObjects.class
+com\netbanking\utilities\ReadConfig.class
+com\netbanking\testcases\BaseClass.class
+com\netbanking\testcases\TC002_LoginDDT_Test.class
+com\netbanking\testcases\TC001_Login_Test.class
