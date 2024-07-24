@@ -11,26 +11,33 @@ import com.netbanking.utilities.ExcelUtilityFile;
 
 public class TC002_LoginDDT_Test extends BaseClass {
 	@Test(dataProvider="testdata")
-	public void ddt_Test(String user,String pwd)
+	public void ddt_Test(String user,String pwd) throws IOException
 	{
 	driver.get(url);
+	logger.info("launched url");
 	driver.manage().window().maximize();
 	LoginPagePageObjects li= new LoginPagePageObjects(driver);
 	li.setUsername(user);
+	logger.info("Entered username");
 	li.setPassword(pwd);
+	logger.info("Entered password");
 	li.setLogin();
+	logger.info("Clicked on login button");
 	if(isAlertPresent()==true)
 	{
 		driver.switchTo().alert().accept();
 		driver.switchTo().defaultContent();
 		Assert.assertTrue(false);
+		
 	}
 	else {
 		Assert.assertTrue(true);
 		li.clickLogout();
+		logger.info("clicked on logout link");
 		driver.switchTo().alert().accept();
 		driver.switchTo().defaultContent();
 		Assert.assertTrue(true);
+		
 	}
 	}
 	

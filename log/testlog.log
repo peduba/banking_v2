@@ -1,0 +1,351 @@
+2024-07-22 10:24:14,141 - TC001_Login_Test -INFO - Launched url
+2024-07-22 10:24:14,330 - TC001_Login_Test -INFO - Entered username
+2024-07-22 10:24:14,451 - TC001_Login_Test -INFO - Entered password
+2024-07-22 10:43:00,285 - netbanking -INFO - Launched url
+2024-07-22 10:43:00,435 - netbanking -INFO - Entered username
+2024-07-22 10:43:00,517 - netbanking -INFO - Entered password
+2024-07-22 11:41:17,367 - netbanking -INFO - Launched url
+2024-07-22 11:41:17,542 - netbanking -INFO - Entered username
+2024-07-22 11:41:17,634 - netbanking -INFO - Entered password
+2024-07-22 11:42:52,915 - netbanking -INFO - Launched url
+2024-07-22 11:42:53,089 - netbanking -INFO - Entered username
+2024-07-22 11:42:53,198 - netbanking -INFO - Entered password
+2024-07-22 11:45:22,541 - netbanking -INFO - Launched url
+2024-07-22 11:45:22,720 - netbanking -INFO - Entered username
+2024-07-22 11:45:22,806 - netbanking -INFO - Entered password
+2024-07-22 11:46:38,325 - netbanking -INFO - Launched url
+2024-07-22 11:46:38,500 - netbanking -INFO - Entered username
+2024-07-22 11:46:38,603 - netbanking -INFO - Entered password
+2024-07-22 11:48:49,636 - netbanking -INFO - Launched url
+2024-07-22 11:48:49,789 - netbanking -INFO - Entered username
+2024-07-22 11:48:49,874 - netbanking -INFO - Entered password
+2024-07-22 13:13:56,264 - netbanking -INFO - Launched url
+2024-07-22 13:13:56,416 - netbanking -INFO - Entered username
+2024-07-22 13:13:56,499 - netbanking -INFO - Entered password
+2024-07-22 13:27:54,217 - netbanking -INFO - Launched url
+2024-07-22 13:27:54,388 - netbanking -INFO - Entered username
+2024-07-22 13:29:38,007 - netbanking -INFO - Launched url
+2024-07-22 13:29:38,145 - netbanking -INFO - Entered username
+2024-07-22 13:33:03,090 - netbanking -INFO - Launched url
+2024-07-22 13:33:03,219 - netbanking -INFO - Entered username
+2024-07-22 13:33:03,588 - netbanking -INFO - Entered password
+2024-07-22 13:52:16,300 - netbanking -INFO - Launched url
+2024-07-22 13:52:16,416 - netbanking -INFO - Entered username
+2024-07-22 13:52:16,761 - netbanking -INFO - Entered password
+2024-07-22 13:52:56,996 - netbanking -INFO - Launched url
+2024-07-22 13:52:57,152 - netbanking -INFO - Entered username
+2024-07-22 13:52:57,474 - netbanking -INFO - Entered password
+2024-07-22 14:20:56,262 - netbanking -INFO - Launched url
+2024-07-22 14:20:56,402 - netbanking -INFO - Entered username
+2024-07-22 14:20:56,721 - netbanking -INFO - Entered password
+2024-07-22 14:21:04,688 - netbanking -INFO - launched url
+2024-07-22 14:21:04,867 - netbanking -INFO - Entered username
+2024-07-22 14:21:04,973 - netbanking -INFO - Entered password
+2024-07-22 14:21:06,713 - netbanking -INFO - Clicked on login button
+2024-07-22 14:21:07,412 - netbanking -INFO - clicked on logout link
+2024-07-22 14:21:10,372 - netbanking -INFO - launched url
+2024-07-22 14:21:10,447 - netbanking -INFO - Entered username
+2024-07-22 14:21:10,494 - netbanking -INFO - Entered password
+2024-07-22 14:21:10,902 - netbanking -INFO - Clicked on login button
+2024-07-22 14:21:13,527 - netbanking -INFO - launched url
+2024-07-22 14:21:13,585 - netbanking -INFO - Entered username
+2024-07-22 14:21:13,626 - netbanking -INFO - Entered password
+2024-07-22 14:21:14,016 - netbanking -INFO - Clicked on login button
+2024-07-22 14:21:16,892 - netbanking -INFO - launched url
+2024-07-22 14:21:16,998 - netbanking -INFO - Entered username
+2024-07-22 14:21:17,079 - netbanking -INFO - Entered password
+2024-07-22 14:21:18,683 - netbanking -INFO - Clicked on login button
+2024-07-22 14:21:19,394 - netbanking -INFO - clicked on logout link
+2024-07-22 14:24:41,374 - netbanking -INFO - Launched url
+2024-07-22 14:24:41,515 - netbanking -INFO - Entered username
+2024-07-22 14:24:41,921 - netbanking -INFO - Entered password
+2024-07-22 14:24:51,101 - netbanking -INFO - launched url
+2024-07-22 14:24:51,240 - netbanking -INFO - Entered username
+2024-07-22 14:24:51,311 - netbanking -INFO - Entered password
+2024-07-22 14:24:53,013 - netbanking -INFO - Clicked on login button
+2024-07-22 14:24:53,715 - netbanking -INFO - clicked on logout link
+2024-07-22 14:24:56,837 - netbanking -INFO - launched url
+2024-07-22 14:24:56,900 - netbanking -INFO - Entered username
+2024-07-22 14:24:56,944 - netbanking -INFO - Entered password
+2024-07-22 14:24:57,376 - netbanking -INFO - Clicked on login button
+2024-07-22 14:24:59,450 - netbanking -INFO - launched url
+2024-07-22 14:24:59,506 - netbanking -INFO - Entered username
+2024-07-22 14:24:59,550 - netbanking -INFO - Entered password
+2024-07-22 14:25:00,081 - netbanking -INFO - Clicked on login button
+2024-07-22 14:25:03,290 - netbanking -INFO - launched url
+2024-07-22 14:25:03,381 - netbanking -INFO - Entered username
+2024-07-22 14:25:03,427 - netbanking -INFO - Entered password
+2024-07-22 14:25:04,616 - netbanking -INFO - Clicked on login button
+2024-07-22 14:25:05,360 - netbanking -INFO - clicked on logout link
+2024-07-23 09:13:45,947 - netbanking -INFO - Launched url
+2024-07-23 09:13:46,135 - netbanking -INFO - Entered username
+2024-07-23 09:13:46,221 - netbanking -INFO - Entered password
+2024-07-23 09:14:03,951 - netbanking -INFO - launched url
+2024-07-23 09:14:04,146 - netbanking -INFO - Entered username
+2024-07-23 09:14:04,237 - netbanking -INFO - Entered password
+2024-07-23 09:14:05,730 - netbanking -INFO - Clicked on login button
+2024-07-23 09:14:06,465 - netbanking -INFO - clicked on logout link
+2024-07-23 09:14:11,568 - netbanking -INFO - launched url
+2024-07-23 09:14:11,680 - netbanking -INFO - Entered username
+2024-07-23 09:14:11,773 - netbanking -INFO - Entered password
+2024-07-23 09:14:12,986 - netbanking -INFO - Clicked on login button
+2024-07-23 09:14:23,181 - netbanking -INFO - launched url
+2024-07-23 09:14:23,286 - netbanking -INFO - Entered username
+2024-07-23 09:14:23,365 - netbanking -INFO - Entered password
+2024-07-23 09:14:24,425 - netbanking -INFO - Clicked on login button
+2024-07-23 09:14:34,627 - netbanking -INFO - launched url
+2024-07-23 09:14:34,745 - netbanking -INFO - Entered username
+2024-07-23 09:14:34,830 - netbanking -INFO - Entered password
+2024-07-23 09:14:40,313 - netbanking -INFO - Clicked on login button
+2024-07-23 09:14:41,606 - netbanking -INFO - clicked on logout link
+2024-07-23 09:31:44,713 - netbanking -INFO - Launched url
+2024-07-23 09:31:45,165 - netbanking -INFO - Entered username
+2024-07-23 09:31:45,511 - netbanking -INFO - Entered password
+2024-07-23 09:32:07,426 - netbanking -INFO - launched url
+2024-07-23 09:32:07,621 - netbanking -INFO - Entered username
+2024-07-23 09:32:07,712 - netbanking -INFO - Entered password
+2024-07-23 09:32:09,453 - netbanking -INFO - Clicked on login button
+2024-07-23 09:32:10,112 - netbanking -INFO - clicked on logout link
+2024-07-23 09:32:13,168 - netbanking -INFO - launched url
+2024-07-23 09:32:13,240 - netbanking -INFO - Entered username
+2024-07-23 09:32:13,297 - netbanking -INFO - Entered password
+2024-07-23 09:32:13,746 - netbanking -INFO - Clicked on login button
+2024-07-23 09:32:16,660 - netbanking -INFO - launched url
+2024-07-23 09:32:16,889 - netbanking -INFO - Entered username
+2024-07-23 09:32:16,959 - netbanking -INFO - Entered password
+2024-07-23 09:32:17,330 - netbanking -INFO - Clicked on login button
+2024-07-23 09:32:20,846 - netbanking -INFO - launched url
+2024-07-23 09:32:20,960 - netbanking -INFO - Entered username
+2024-07-23 09:32:21,065 - netbanking -INFO - Entered password
+2024-07-23 09:32:22,163 - netbanking -INFO - Clicked on login button
+2024-07-23 09:32:22,866 - netbanking -INFO - clicked on logout link
+2024-07-23 10:09:31,568 - netbanking -INFO - Launched url
+2024-07-23 10:09:31,925 - netbanking -INFO - Entered username
+2024-07-23 10:09:32,310 - netbanking -INFO - Entered password
+2024-07-23 10:09:44,036 - netbanking -INFO - launched url
+2024-07-23 10:09:44,195 - netbanking -INFO - Entered username
+2024-07-23 10:09:44,268 - netbanking -INFO - Entered password
+2024-07-23 10:09:46,203 - netbanking -INFO - Clicked on login button
+2024-07-23 10:09:46,929 - netbanking -INFO - clicked on logout link
+2024-07-23 10:09:49,997 - netbanking -INFO - launched url
+2024-07-23 10:09:50,085 - netbanking -INFO - Entered username
+2024-07-23 10:09:50,150 - netbanking -INFO - Entered password
+2024-07-23 10:09:50,558 - netbanking -INFO - Clicked on login button
+2024-07-23 10:09:53,481 - netbanking -INFO - launched url
+2024-07-23 10:09:53,559 - netbanking -INFO - Entered username
+2024-07-23 10:09:53,611 - netbanking -INFO - Entered password
+2024-07-23 10:09:54,034 - netbanking -INFO - Clicked on login button
+2024-07-23 10:09:56,799 - netbanking -INFO - launched url
+2024-07-23 10:09:56,913 - netbanking -INFO - Entered username
+2024-07-23 10:09:56,982 - netbanking -INFO - Entered password
+2024-07-23 10:09:58,769 - netbanking -INFO - Clicked on login button
+2024-07-23 10:09:59,527 - netbanking -INFO - clicked on logout link
+2024-07-23 10:31:27,230 - netbanking -INFO - Launched url
+2024-07-23 10:31:27,691 - netbanking -INFO - Entered username
+2024-07-23 10:31:28,055 - netbanking -INFO - Entered password
+2024-07-23 10:31:37,350 - netbanking -INFO - launched url
+2024-07-23 10:31:37,531 - netbanking -INFO - Entered username
+2024-07-23 10:31:37,637 - netbanking -INFO - Entered password
+2024-07-23 10:31:39,362 - netbanking -INFO - Clicked on login button
+2024-07-23 10:31:40,131 - netbanking -INFO - clicked on logout link
+2024-07-23 10:31:42,553 - netbanking -INFO - launched url
+2024-07-23 10:31:42,663 - netbanking -INFO - Entered username
+2024-07-23 10:31:42,798 - netbanking -INFO - Entered password
+2024-07-23 10:31:43,196 - netbanking -INFO - Clicked on login button
+2024-07-23 10:31:46,177 - netbanking -INFO - launched url
+2024-07-23 10:31:46,285 - netbanking -INFO - Entered username
+2024-07-23 10:31:46,407 - netbanking -INFO - Entered password
+2024-07-23 10:31:46,801 - netbanking -INFO - Clicked on login button
+2024-07-23 10:31:49,799 - netbanking -INFO - launched url
+2024-07-23 10:31:49,908 - netbanking -INFO - Entered username
+2024-07-23 10:31:50,007 - netbanking -INFO - Entered password
+2024-07-23 10:31:51,673 - netbanking -INFO - Clicked on login button
+2024-07-23 10:31:52,376 - netbanking -INFO - clicked on logout link
+2024-07-23 11:08:43,184 - netbanking -INFO - Launched url
+2024-07-23 11:08:43,702 - netbanking -INFO - Entered username
+2024-07-23 11:08:44,084 - netbanking -INFO - Entered password
+2024-07-23 11:08:54,276 - netbanking -INFO - launched url
+2024-07-23 11:08:54,434 - netbanking -INFO - Entered username
+2024-07-23 11:08:54,533 - netbanking -INFO - Entered password
+2024-07-23 11:08:59,625 - netbanking -INFO - Clicked on login button
+2024-07-23 11:09:00,921 - netbanking -INFO - clicked on logout link
+2024-07-23 11:09:12,071 - netbanking -INFO - launched url
+2024-07-23 11:09:12,173 - netbanking -INFO - Entered username
+2024-07-23 11:09:12,256 - netbanking -INFO - Entered password
+2024-07-23 11:09:13,333 - netbanking -INFO - Clicked on login button
+2024-07-23 11:09:17,376 - netbanking -INFO - launched url
+2024-07-23 11:09:17,475 - netbanking -INFO - Entered username
+2024-07-23 11:09:17,561 - netbanking -INFO - Entered password
+2024-07-23 11:09:17,983 - netbanking -INFO - Clicked on login button
+2024-07-23 11:09:21,707 - netbanking -INFO - launched url
+2024-07-23 11:09:21,822 - netbanking -INFO - Entered username
+2024-07-23 11:09:21,910 - netbanking -INFO - Entered password
+2024-07-23 11:09:23,476 - netbanking -INFO - Clicked on login button
+2024-07-23 11:09:24,178 - netbanking -INFO - clicked on logout link
+2024-07-23 11:18:16,210 - netbanking -INFO - Launched url
+2024-07-23 11:18:16,602 - netbanking -INFO - Entered username
+2024-07-23 11:18:16,960 - netbanking -INFO - Entered password
+2024-07-23 11:18:27,810 - netbanking -INFO - launched url
+2024-07-23 11:18:27,973 - netbanking -INFO - Entered username
+2024-07-23 11:18:28,060 - netbanking -INFO - Entered password
+2024-07-23 11:18:30,501 - netbanking -INFO - Clicked on login button
+2024-07-23 11:18:31,271 - netbanking -INFO - clicked on logout link
+2024-07-23 11:18:34,359 - netbanking -INFO - launched url
+2024-07-23 11:18:34,430 - netbanking -INFO - Entered username
+2024-07-23 11:18:34,485 - netbanking -INFO - Entered password
+2024-07-23 11:18:34,914 - netbanking -INFO - Clicked on login button
+2024-07-23 11:18:38,543 - netbanking -INFO - launched url
+2024-07-23 11:18:38,633 - netbanking -INFO - Entered username
+2024-07-23 11:18:38,731 - netbanking -INFO - Entered password
+2024-07-23 11:18:39,144 - netbanking -INFO - Clicked on login button
+2024-07-23 11:18:43,040 - netbanking -INFO - launched url
+2024-07-23 11:18:43,133 - netbanking -INFO - Entered username
+2024-07-23 11:18:43,235 - netbanking -INFO - Entered password
+2024-07-23 11:18:44,994 - netbanking -INFO - Clicked on login button
+2024-07-23 11:18:45,731 - netbanking -INFO - clicked on logout link
+2024-07-23 11:36:32,724 - netbanking -INFO - Launched url
+2024-07-23 11:36:33,224 - netbanking -INFO - Entered username
+2024-07-23 11:36:33,633 - netbanking -INFO - Entered password
+2024-07-23 11:36:43,284 - netbanking -INFO - launched url
+2024-07-23 11:36:43,456 - netbanking -INFO - Entered username
+2024-07-23 11:36:43,570 - netbanking -INFO - Entered password
+2024-07-23 11:36:50,815 - netbanking -INFO - Clicked on login button
+2024-07-23 11:36:52,708 - netbanking -INFO - clicked on logout link
+2024-07-23 11:37:05,482 - netbanking -INFO - launched url
+2024-07-23 11:37:05,580 - netbanking -INFO - Entered username
+2024-07-23 11:37:05,660 - netbanking -INFO - Entered password
+2024-07-23 11:37:06,841 - netbanking -INFO - Clicked on login button
+2024-07-23 11:42:36,430 - netbanking -INFO - Launched url
+2024-07-23 11:42:36,850 - netbanking -INFO - Entered username
+2024-07-23 11:42:37,217 - netbanking -INFO - Entered password
+2024-07-23 11:42:46,231 - netbanking -INFO - launched url
+2024-07-23 11:42:46,384 - netbanking -INFO - Entered username
+2024-07-23 11:42:46,476 - netbanking -INFO - Entered password
+2024-07-23 11:42:48,253 - netbanking -INFO - Clicked on login button
+2024-07-23 11:42:48,965 - netbanking -INFO - clicked on logout link
+2024-07-23 11:42:52,136 - netbanking -INFO - launched url
+2024-07-23 11:42:52,200 - netbanking -INFO - Entered username
+2024-07-23 11:42:52,270 - netbanking -INFO - Entered password
+2024-07-23 11:42:52,675 - netbanking -INFO - Clicked on login button
+2024-07-23 11:42:56,025 - netbanking -INFO - launched url
+2024-07-23 11:42:56,107 - netbanking -INFO - Entered username
+2024-07-23 11:42:56,196 - netbanking -INFO - Entered password
+2024-07-23 11:42:56,631 - netbanking -INFO - Clicked on login button
+2024-07-23 11:43:00,002 - netbanking -INFO - launched url
+2024-07-23 11:43:00,110 - netbanking -INFO - Entered username
+2024-07-23 11:43:00,202 - netbanking -INFO - Entered password
+2024-07-23 11:43:01,956 - netbanking -INFO - Clicked on login button
+2024-07-23 11:43:02,749 - netbanking -INFO - clicked on logout link
+2024-07-23 13:00:50,905 - netbanking -INFO - Launched url
+2024-07-23 13:00:51,271 - netbanking -INFO - Entered username
+2024-07-23 13:00:51,588 - netbanking -INFO - Entered password
+2024-07-23 13:01:18,300 - netbanking -INFO - launched url
+2024-07-23 13:01:18,447 - netbanking -INFO - Entered username
+2024-07-23 13:01:18,525 - netbanking -INFO - Entered password
+2024-07-23 13:01:25,017 - netbanking -INFO - Clicked on login button
+2024-07-23 13:01:26,323 - netbanking -INFO - clicked on logout link
+2024-07-23 13:01:28,343 - netbanking -INFO - launched url
+2024-07-23 13:01:28,398 - netbanking -INFO - Entered username
+2024-07-23 13:01:28,503 - netbanking -INFO - Entered password
+2024-07-23 13:01:29,036 - netbanking -INFO - Clicked on login button
+2024-07-23 13:01:32,206 - netbanking -INFO - launched url
+2024-07-23 13:01:32,257 - netbanking -INFO - Entered username
+2024-07-23 13:01:32,305 - netbanking -INFO - Entered password
+2024-07-23 13:01:32,680 - netbanking -INFO - Clicked on login button
+2024-07-23 13:01:36,301 - netbanking -INFO - launched url
+2024-07-23 13:01:36,373 - netbanking -INFO - Entered username
+2024-07-23 13:01:36,435 - netbanking -INFO - Entered password
+2024-07-23 13:01:37,497 - netbanking -INFO - Clicked on login button
+2024-07-23 13:01:38,178 - netbanking -INFO - clicked on logout link
+2024-07-23 13:16:59,908 - netbanking -INFO - Launched url
+2024-07-23 13:17:00,282 - netbanking -INFO - Entered username
+2024-07-23 13:17:00,578 - netbanking -INFO - Entered password
+2024-07-23 13:17:10,031 - netbanking -INFO - launched url
+2024-07-23 13:17:10,168 - netbanking -INFO - Entered username
+2024-07-23 13:17:10,244 - netbanking -INFO - Entered password
+2024-07-23 13:17:12,381 - netbanking -INFO - Clicked on login button
+2024-07-23 13:17:13,073 - netbanking -INFO - clicked on logout link
+2024-07-23 13:17:15,394 - netbanking -INFO - launched url
+2024-07-23 13:17:15,485 - netbanking -INFO - Entered username
+2024-07-23 13:17:15,533 - netbanking -INFO - Entered password
+2024-07-23 13:17:15,946 - netbanking -INFO - Clicked on login button
+2024-07-23 13:17:19,255 - netbanking -INFO - launched url
+2024-07-23 13:17:19,308 - netbanking -INFO - Entered username
+2024-07-23 13:17:19,357 - netbanking -INFO - Entered password
+2024-07-23 13:17:19,769 - netbanking -INFO - Clicked on login button
+2024-07-23 13:17:22,912 - netbanking -INFO - launched url
+2024-07-23 13:17:22,970 - netbanking -INFO - Entered username
+2024-07-23 13:17:23,018 - netbanking -INFO - Entered password
+2024-07-23 13:17:24,470 - netbanking -INFO - Clicked on login button
+2024-07-23 13:17:25,193 - netbanking -INFO - clicked on logout link
+2024-07-23 13:19:30,050 - netbanking -INFO - Launched url
+2024-07-23 13:19:30,409 - netbanking -INFO - Entered username
+2024-07-23 13:19:30,697 - netbanking -INFO - Entered password
+2024-07-23 13:19:39,833 - netbanking -INFO - launched url
+2024-07-23 13:19:40,020 - netbanking -INFO - Entered username
+2024-07-23 13:19:40,119 - netbanking -INFO - Entered password
+2024-07-23 13:19:41,956 - netbanking -INFO - Clicked on login button
+2024-07-23 13:19:42,639 - netbanking -INFO - clicked on logout link
+2024-07-23 13:19:44,560 - netbanking -INFO - launched url
+2024-07-23 13:19:44,612 - netbanking -INFO - Entered username
+2024-07-23 13:19:44,662 - netbanking -INFO - Entered password
+2024-07-23 13:19:45,094 - netbanking -INFO - Clicked on login button
+2024-07-23 13:19:48,235 - netbanking -INFO - launched url
+2024-07-23 13:19:48,283 - netbanking -INFO - Entered username
+2024-07-23 13:19:48,344 - netbanking -INFO - Entered password
+2024-07-23 13:19:48,799 - netbanking -INFO - Clicked on login button
+2024-07-23 13:19:52,525 - netbanking -INFO - launched url
+2024-07-23 13:19:52,596 - netbanking -INFO - Entered username
+2024-07-23 13:19:52,645 - netbanking -INFO - Entered password
+2024-07-23 13:19:53,711 - netbanking -INFO - Clicked on login button
+2024-07-23 13:19:54,339 - netbanking -INFO - clicked on logout link
+2024-07-23 13:26:46,831 - netbanking -INFO - Launched url
+2024-07-23 13:26:47,173 - netbanking -INFO - Entered username
+2024-07-23 13:26:47,514 - netbanking -INFO - Entered password
+2024-07-23 13:26:57,189 - netbanking -INFO - launched url
+2024-07-23 13:26:57,331 - netbanking -INFO - Entered username
+2024-07-23 13:26:57,436 - netbanking -INFO - Entered password
+2024-07-23 13:26:59,401 - netbanking -INFO - Clicked on login button
+2024-07-23 13:27:00,097 - netbanking -INFO - clicked on logout link
+2024-07-23 13:30:21,252 - netbanking -INFO - Launched url
+2024-07-23 13:30:21,571 - netbanking -INFO - Entered username
+2024-07-23 13:30:21,853 - netbanking -INFO - Entered password
+2024-07-23 13:30:30,849 - netbanking -INFO - launched url
+2024-07-23 13:30:31,057 - netbanking -INFO - Entered username
+2024-07-23 13:30:31,174 - netbanking -INFO - Entered password
+2024-07-23 13:30:32,995 - netbanking -INFO - Clicked on login button
+2024-07-23 13:30:33,672 - netbanking -INFO - clicked on logout link
+2024-07-23 13:30:35,948 - netbanking -INFO - launched url
+2024-07-23 13:30:36,019 - netbanking -INFO - Entered username
+2024-07-23 13:30:36,081 - netbanking -INFO - Entered password
+2024-07-23 13:30:36,476 - netbanking -INFO - Clicked on login button
+2024-07-23 13:30:40,244 - netbanking -INFO - launched url
+2024-07-23 13:30:40,318 - netbanking -INFO - Entered username
+2024-07-23 13:30:40,389 - netbanking -INFO - Entered password
+2024-07-23 13:30:40,788 - netbanking -INFO - Clicked on login button
+2024-07-23 13:30:43,993 - netbanking -INFO - launched url
+2024-07-23 13:30:44,057 - netbanking -INFO - Entered username
+2024-07-23 13:30:44,161 - netbanking -INFO - Entered password
+2024-07-23 13:30:45,679 - netbanking -INFO - Clicked on login button
+2024-07-23 13:30:46,401 - netbanking -INFO - clicked on logout link
+2024-07-23 15:25:22,241 - netbanking -INFO - Launched url
+2024-07-23 15:25:22,620 - netbanking -INFO - Entered username
+2024-07-23 15:25:22,957 - netbanking -INFO - Entered password
+2024-07-23 15:25:32,803 - netbanking -INFO - launched url
+2024-07-23 15:25:32,979 - netbanking -INFO - Entered username
+2024-07-23 15:25:33,069 - netbanking -INFO - Entered password
+2024-07-23 15:25:35,166 - netbanking -INFO - Clicked on login button
+2024-07-23 15:25:35,859 - netbanking -INFO - clicked on logout link
+2024-07-23 15:25:38,986 - netbanking -INFO - launched url
+2024-07-23 15:25:39,070 - netbanking -INFO - Entered username
+2024-07-23 15:25:39,127 - netbanking -INFO - Entered password
+2024-07-23 15:25:39,525 - netbanking -INFO - Clicked on login button
+2024-07-23 15:25:42,769 - netbanking -INFO - launched url
+2024-07-23 15:25:42,836 - netbanking -INFO - Entered username
+2024-07-23 15:25:42,932 - netbanking -INFO - Entered password
+2024-07-23 15:25:43,350 - netbanking -INFO - Clicked on login button
+2024-07-23 15:25:46,140 - netbanking -INFO - launched url
+2024-07-23 15:25:46,255 - netbanking -INFO - Entered username
+2024-07-23 15:25:46,367 - netbanking -INFO - Entered password
+2024-07-23 15:25:48,081 - netbanking -INFO - Clicked on login button
+2024-07-23 15:25:48,774 - netbanking -INFO - clicked on logout link
